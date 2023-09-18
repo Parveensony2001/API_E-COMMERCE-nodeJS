@@ -1,0 +1,92 @@
+[
+    {
+      "name": "creta",
+      "price": 1500000,
+      "featured": false,
+      "company": "Honda",
+      "rating":8.8,
+      "createdAt": 2020,
+      "image":"https://images10.gaadi.com/usedcar_image/3577326/original/processed_img2870463__used_car_2870463_1694787162.jpg?imwidth=420"
+    },
+    {
+      "name": "Thar",
+      "price": 1154,
+      "featured": true,
+      "company": "mahindra",
+      "rating":8.8,
+      "createdAt": 2020,
+      "image":"https://images10.gaadi.com/usedcar_image/3563780/original/processed_usedcar_20230827_175807_251071693826672_1693826687.jpg?imwidth=420"
+    },
+    {
+      "name": "XUV700",
+      "price": 204000,
+      "featured": true,
+      "company": "mahindra",
+      "rating":9.0,
+      "createdAt": 2018,
+      "image":"https://imgd.aeplcdn.com/664x374/n/cw/ec/42355/xuv700-exterior-right-front-three-quarter.jpeg?isig=0&q=80&q=80"
+    },
+    {
+      "name": "XUV300",
+      "price": 100000,
+      "featured": true,
+      "company": "mahindra",
+      "rating":9.0,
+      "createdAt": 2018,
+      "image":"https://imgd.aeplcdn.com/664x374/n/cw/ec/26918/xuv300-exterior-right-front-three-quarter-148707.jpeg?isig=0&q=80&q=80"
+    },
+    {
+      "name": "SX4",
+      "price": 1300000,
+      "company": "Suzuki",
+      "featured": true,
+      "rating":9.0,
+      "createdAt": 2016,
+      "image":"https://imgd.aeplcdn.com/300x225/cw/ucp/stockApiImg/66WVDRX_d06b11902c1d4905838797bf0419690a_1_30800797.jpg?q=80"
+    },
+    {
+      "name": "Belero",
+      "price": 1296000,
+      "company": "mahindra",
+      "featured": true,
+      "rating":9.0,
+      "createdAt": 2020,
+      "image":"https://imgd.aeplcdn.com/664x374/n/cw/ec/131179/bolero-exterior-right-front-three-quarter.jpeg?isig=0&q=80&q=80"
+    },
+    {
+      "name": "Maruti Dzire",
+      "price": 650000,
+      "company": "Suzuki",
+      "featured": true,
+      "rating":7.0,
+      "createdAt": 2018,
+      "image":"https://imgd.aeplcdn.com/664x374/n/cw/ec/45691/marutisuzuki-dzire-right-front-three-quarter8.jpeg?q=80&q=80"
+    },
+    {
+      "name": "A4",
+      "price": 7010000,
+      "company": "Audi",
+      "featured": true,
+      "rating":7.0,
+      "createdAt": 2018,
+      "image":"https://imgd.aeplcdn.com/664x374/n/cw/ec/51909/a4-exterior-right-front-three-quarter-2.jpeg?q=80&q=80"
+    },
+    {
+        "name": "Tata Nexon",
+        "price": 1800000,
+        "company": "tata",
+        "featured":true,
+        "rating":10.0,
+        "createdAt":2022,
+        "image":"https://imgd.aeplcdn.com/664x374/n/cw/ec/141867/nexon-facelift-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80&q=80"
+      },
+      {
+        "name": "jaguar",
+        "price": 701,
+        "company": "tata",
+        "featured":true,
+        "rating":10.0,
+        "createdAt":2022,
+        "image":"https://imgd.aeplcdn.com/227x128/n/cw/ec/46994/jaguar-f-type-right-front-three-quarter18.jpeg?q=80&q=80"
+      }
+  ]
